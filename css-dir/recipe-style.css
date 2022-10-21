@@ -1,0 +1,31 @@
+body{
+    background-color: aqua;
+}
+img {
+    width: 300px;
+    height: auto;
+    
+}
+h1{
+    background-color: navajowhite;
+    text-align: center;
+}
+h4{
+    background-color: navajowhite;
+    text-align: center;
+}
+h2{
+    background-color: crimson;
+    color: yellow;
+    text-align: end;
+}
+ul,
+ol{
+    background-color: violet;
+}
+ul li{
+    color: green;
+}
+ol li{
+    color: crimson;
+}

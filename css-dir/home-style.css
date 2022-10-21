@@ -1,0 +1,17 @@
+body {
+    background-color: aqua;
+}
+h1 {
+    color: red;
+    background-color: navajowhite;
+}
+ul {
+    background-color: chartreuse;
+}
+ul li {
+    color: red;
+    background-color: navajowhite;
+}
+a {
+    color:crimson;
+}
